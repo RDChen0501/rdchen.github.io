@@ -165,8 +165,8 @@ awards:
 
 ## About Me
 
-Hi, I'm Rosy!I'm a first-year Master of Computer Science (MSCS) student at Carnegie Mellon University's School of Computer Science. Currently, I'm part of the Intent Robotics Lab at the CMU Robotics Institute, where I'm advised by Prof. Andrea Bajcsy.
+Hi, I'm Rosy! I'm a first-year Master of Computer Science (MSCS) student at Carnegie Mellon University's School of Computer Science. Currently, I'm part of the Intent Robotics Lab at the CMU Robotics Institute, where I'm advised by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
 
 My research focuses on applying machine learning techniques to enhance robot learning and generalization. I'm particularly interested in developing more robust robots capable of handling uncertainty and improving safety in various applications.
 
-Prior to CMU, I graduated from Harvey Mudd College, where I collaborated with Prof. Jim Boerkoel on scheduling algorithms for human-robot collaboration
+Prior to CMU, I graduated from Harvey Mudd College, where I collaborated with Prof. [Jim Boerkoel](https://www.cs.hmc.edu/~boerkoel/) on scheduling algorithms for human-robot collaboration
