@@ -104,7 +104,7 @@ sections:
   #     columns: 1
 
   - block: cta-card
-    demo: false # Only display this section in the Hugo Blox Builder demo site
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
